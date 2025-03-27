@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\services\\spelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\services\\spelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\models\\spel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\models\\spel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\views\\home\\skapaspel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\views\\home\\skapaspel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\spelarkad.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\spelarkad.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\views\\home\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\views\\home\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\wwwroot\\css\\skapa.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\wwwroot\\css\\skapa.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|c:\\users\\borna\\desktop\\spelprojekt\\spelarkad\\spelarkad\\spelarkad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA2C63AC-7E37-4660-8E85-0351ED31FFF8}|SpelArkad\\SpelArkad.csproj|solutionrelative:spelarkad\\spelarkad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:185227609:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1178657504:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\appsettings.json",
+              "RelativeDocumentMoniker": "SpelArkad\\appsettings.json",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\appsettings.json",
+              "RelativeToolTip": "SpelArkad\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T14:16:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SpelArkad\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:16:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Buttons.css",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\Buttons.css",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\css\\Buttons.css",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\Buttons.css",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\css\\Buttons.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T21:40:54.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "SpelArkad\\Views\\Home\\UserIndex.cshtml",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\UserIndex.cshtml",
+              "RelativeToolTip": "SpelArkad\\Views\\Home\\UserIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T21:23:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpelController.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Controllers\\SpelController.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Controllers\\SpelController.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Controllers\\SpelController.cs",
+              "RelativeToolTip": "SpelArkad\\Controllers\\SpelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:51:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpelArkad.csproj",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+              "RelativeDocumentMoniker": "SpelArkad\\SpelArkad.csproj",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+              "RelativeToolTip": "SpelArkad\\SpelArkad.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T13:18:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T11:41:30.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpelArkad",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+              "RelativeDocumentMoniker": "SpelArkad\\SpelArkad.csproj",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+              "RelativeToolTip": "SpelArkad\\SpelArkad.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T11:23:14.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SpelArkad\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SpelArkad\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:22:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAswKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T11:22:12.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T11:17:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpelService.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Services\\SpelService.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Services\\SpelService.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Services\\SpelService.cs",
+              "RelativeToolTip": "SpelArkad\\Services\\SpelService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:10:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpelArkad\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:21:51.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpelArkad\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpelArkad\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:18:42.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T16:01:55.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkapaSpel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\SkapaSpel.cshtml",
+              "RelativeDocumentMoniker": "SpelArkad\\Views\\Home\\SkapaSpel.cshtml",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Home\\SkapaSpel.cshtml",
+              "RelativeToolTip": "SpelArkad\\Views\\Home\\SkapaSpel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T15:17:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Program.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Program.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Program.cs",
+              "RelativeToolTip": "SpelArkad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:23:41.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spel.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Models\\Spel.cs",
+              "RelativeDocumentMoniker": "SpelArkad\\Models\\Spel.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Models\\Spel.cs",
+              "RelativeToolTip": "SpelArkad\\Models\\Spel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:26:09.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Skapa.css",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\Skapa.css",
+              "RelativeDocumentMoniker": "SpelArkad\\wwwroot\\css\\Skapa.css",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\wwwroot\\css\\Skapa.css",
+              "RelativeToolTip": "SpelArkad\\wwwroot\\css\\Skapa.css",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwFUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T15:28:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpelArkad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpelArkad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:14:45.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

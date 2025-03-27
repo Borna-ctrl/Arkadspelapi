@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Skapa ett nytt spel";
+}
+
+<link rel="stylesheet" href="~/css/Skapa.css" />
+
+<h2>@ViewData["Title"]</h2>
+
+<div id="createGameForm">
+    <h3>Skapa ett nytt spel</h3>
+    <form method="post" action="@Url.Action("SkapaSpel", "Spel")">
+        <div class="form-group">
+            <label for="titel">Titel</label>
+            <input type="text" class="form-control" id="titel" name="titel" required />
+        </div>
+        <div class="form-group">
+            <label for="kategori">Kategori</label>
+            <select class="form-control" id="kategori" name="kategori" required>
+                <option value="Racing">Racing</option>
+                <option value="Fighting">Fighting</option>
+                <option value="Retro">Retro</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="beskrivning">Beskrivning</label>
+            <textarea class="form-control" id="beskrivning" name="beskrivning" required></textarea>
+        </div>
+        <div class="form-group">
+            <label for="bildUrl">Bild URL</label>
+            <input type="text" class="form-control" id="bildUrl" name="bildUrl" required />
+        </div>
+        <div class="form-group">
+            <label for="trailerUrl">Trailer URL</label>
+            <input type="text" class="form-control" id="trailerUrl" name="trailerUrl" required />
+        </div>
+        <button type="submit" class="btn btn-success">Skapa spel</button>
+        <button type="button" id="cancelCreate" class="btn btn-danger">Avbryt</button>
+    </form>
+</div>

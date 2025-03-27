@@ -1,0 +1,167 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: mediumvioletred;
+}
+
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+}
+
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.game-card {
+    background: #4a0072;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease-in-out;
+    position: relative;
+}
+
+    .game-card:hover {
+        transform: scale(1.05);
+    }
+
+    .game-card img {
+        width: 100%;
+        border-radius: 10px;
+        height: 70%;
+    }
+
+h3 {
+    margin: 10px 0 5px;
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 0.9rem;
+    color: #ddd;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #ff5722;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+
+#categoryFilter {
+    background: #e91e63;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    outline: none;
+}
+
+    #categoryFilter:hover {
+        background: #c2185b;
+    }
+
+    #categoryFilter option {
+        background: white;
+        color: black;
+        font-size: 1rem;
+    }
+/* Modalens bakgrund */
+#gameModal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center; /* Vertikalt centrera */
+    justify-content: center; /* Horisontellt centrera */
+    color: teal;
+}
+
+/* Modalens titel */
+#modalTitle {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+}
+
+/* Modalens innehåll */
+.modal-content {
+    background: purple;
+    padding: 20px;
+    width: 70%; /* Öka bredden (justera efter behov) */
+    max-width: 800px; /* Sätt max-bredd för att förhindra att det blir för stort */
+    height: auto; /* Tillåt dynamisk höjd */
+    max-height: 90vh; /* Förhindra overflow på mindre skärmar */
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden; /* Förhindra innehåll från att överflöda */
+    display: flex;
+    flex-direction: column; /* Se till att alla element staplas vertikalt */
+    align-items: center; /* Centrerar innehållet horisontellt */
+    justify-content: center; /* Centrerar innehållet vertikalt */
+    margin: 0 auto; /* Lägger till en säkerhetsmarginal för centrerad position */
+}
+
+    /* För att göra bilderna inom modal innehåll snyggt */
+    .modal-content img {
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    /* För att justera iframe för video */
+    .modal-content iframe {
+        width: 100%;
+        height: 400px; /* Öka videons höjd */
+        border-radius: 8px;
+        margin-bottom: 20px; /* Lägger till mellanrum mellan videon och beskrivningen */
+    }
+
+/* Lägg till en beskrivning under videon */
+#modalDescription {
+    font-size: 1rem;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    padding: 0 20px; /* Lägg till lite padding så att texten inte går ända ut till kanten */
+}
+
+/* Stängningsknappen */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+

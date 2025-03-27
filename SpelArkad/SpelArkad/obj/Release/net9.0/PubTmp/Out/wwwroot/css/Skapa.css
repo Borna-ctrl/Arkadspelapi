@@ -1,0 +1,92 @@
+﻿body {
+}
+/* SkapaSpel Sidan */
+#SkapaSpelForm {
+    max-width: 600px;
+    margin: 0 auto; /* Centrerar formuläret på sidan */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    #SkapaSpelForm h3 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+/* Formulärgrupper */
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group label {
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+        width: 100%;
+        padding: 10px;
+        font-size: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+
+/* Submit & Cancel knappar */
+button {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+    button.btn-success {
+        background-color: #28a745;
+        color: white;
+        border: none;
+    }
+
+    button.btn-danger {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+    }
+
+    button:hover {
+        opacity: 0.9;
+    }
+
+#cancelCreate {
+    background-color: #f8f9fa;
+    color: #333;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
+
+    #cancelCreate:hover {
+        background-color: #e9ecef;
+    }
+
+/* Responsivitet */
+@media (max-width: 768px) {
+    #SkapaSpelForm {
+        padding: 15px;
+    }
+
+    button {
+        font-size: 0.9rem;
+    }
+}

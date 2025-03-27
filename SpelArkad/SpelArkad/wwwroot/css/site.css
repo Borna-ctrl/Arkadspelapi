@@ -1,0 +1,184 @@
+﻿﻿html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.navbar {
+    background-color: #2e1041;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar-loggo {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.navbar-ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+    .navbar-ul li {
+        list-style-type: none;
+        margin-right: 20px;
+    }
+
+    .navbar-ul a {
+        text-decoration: none;
+        color: white;
+    }
+
+        .navbar-ul a:hover {
+            color: #D1A0E4;
+        }
+
+.right-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.btn-boka {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-color: #FF00FF;
+    border-radius: 5px;
+}
+
+    .btn-boka:hover {
+        background-color: #D1A0E4;
+        color: white;
+    }
+
+.menu-container {
+    background-color: #2e1041;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #2e1041;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 16px;
+}
+
+    .footer a {
+        color: #ddd;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .footer a:hover {
+            color: #ffffff;
+        }
+
+    .footer .info {
+        margin-bottom: 5px;
+    }
+
+.menu-button {
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+    display: block;
+}
+
+.menu {
+    display: none;
+    flex-direction: column;
+    background-color: #2e1041;
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+    .menu a {
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        text-align: center;
+    }
+
+        .menu a:hover {
+            background-color: #491a6c;
+        }
+
+#menu-toggle {
+    display: none;
+}
+
+    #menu-toggle:checked + .menu {
+        display: flex;
+    }
+
+.hero-section {
+    background-image: url('https://s3-alpha-sig.figma.com/img/542b/5a12/a15cb9eda96176ca781ea4aa89492ff1?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=KEoJhb6pJkGc0haVYgz9d2V29R9-1tnD0-ARzEf67qIc0rAHAsL1bzzN0PmtbJH6w3yPB9dxsscac9~CVoNj1gz5Y~9a8Tu7oxaAVN1Qo7VqXJwTdhZ3Oag~MJ~pfb0-UMgzIbpGFEwcD6nUsmrvSyn-VvnPNiPXu-nxAjh8CxzRy96W-~orBvJlwO6AC36uE~2tnTji3yqhBdvGCIwZD2pZSnvdWbf9SJCrlp2TnEfaxOTWG-TmvwDHh1NtHXVi1SPNMJ0MSRKJUCf5d~g3iBAmaWquJCqL-Oh4WPduxPSJiiAs~QpP0gldHqSgSoybzIIDQNvmcwRxoDsXxDYIqw__');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hero-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+    .hero-buttons .btn-boka {
+        text-decoration: none;
+        color: white;
+        padding: 15px 30px;
+        font-size: 1.2rem;
+        border-radius: 10px;
+        background-color: #FF00FF;
+        transition: 0.3s;
+    }
+
+        .hero-buttons .btn-boka:hover {
+            background-color: #D1A0E4;
+        }
+
+s3-alpha-sig.figma.com

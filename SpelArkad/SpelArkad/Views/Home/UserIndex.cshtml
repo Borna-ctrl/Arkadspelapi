@@ -1,0 +1,55 @@
+﻿@model List<Spel>
+<link rel="stylesheet" href="~/css/Buttons.css">
+
+<link rel="stylesheet" href="~/css/styles.css">
+<script src="~/js/script.js"></script>
+
+<div id="gameModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 id="modalTitle"></h2>
+        <iframe id="modalVideo" width="100%" height="250" src="" frameborder="0" allowfullscreen></iframe>
+        <p id="modalDescription"></p>
+    </div>
+</div>
+
+<!-- Huvudinnehåll -->
+<div class="container mt-5">
+    <h2 class="text-center">Upptäck Vårt Spelsortiment</h2>
+
+    <!-- Kategoriväljare -->
+    <div class="text-center my-3">
+        <select class="form-select w-auto d-inline" id="categoryFilter">
+            <option value="all">Alla kategorier</option>
+            <option value="fighting">Fighting</option>
+            <option value="racing">Racing</option>
+            <option value="retro">Retro</option>
+        </select>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="game-grid mt-4">
+            @foreach (var spel in Model)
+            {
+                <div class="game-card" data-category="@spel.Kategori" data-video="@spel.TrailerUrl">
+                    <div class="badge">Nyhet! 🎮</div>
+                    <img src="@spel.BildUrl" alt="@spel.Titel">
+                    <h3>@spel.Titel</h3>
+                    <p>Kategori: @spel.Kategori</p>
+                    <p>@spel.Beskrivning</p>
+                    <button onclick="openModal('@spel.TrailerUrl', '@spel.Titel', '@spel.Beskrivning')">Se Trailer</button>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p class="text-center">Inga spel hittades i databasen.</p>
+    }
+
+    <!-- Knapp för att gå tillbaka till Index (om så önskas) -->
+    <div class="text-center my-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Tillbaka till Spelöversikt</a>
+    </div>
+</div>

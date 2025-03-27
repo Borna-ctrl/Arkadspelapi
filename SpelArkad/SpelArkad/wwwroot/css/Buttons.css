@@ -1,0 +1,53 @@
+﻿
+/* Skapa nytt spel knapp */
+.btn-custom {
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-custom:hover {
+        background-color: #218838;
+    }
+
+/* Radera spel knapp (inne i formuläret) */
+form button[type="submit"] {
+    background-color: #dc3545;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100%;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+    form button[type="submit"]:hover {
+        background-color: #c82333;
+    }
+
+/* Trailer knapp (på varje spelkort) */
+.game-card button {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+    .game-card button:hover {
+        background-color: #0056b3;
+    }

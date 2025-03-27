@@ -1,0 +1,56 @@
+﻿﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="navbar">
+                <a class="navbar-loggo" href="#">Robbans Arkad</a>
+                <div class="nav-buttons">
+                    <ul class="navbar-ul">
+                        <li class="nav-item"><a href="#">Event/</a></li>
+                        <li class="nav-item"><a href="#">Om oss/</a></li>
+                        <li class="nav-item"><a href="#">Hallar/</a></li>
+                        <li class="nav-item"><a href="#">Spel/</a></li>
+                        <li class="nav-item"><a href="#">Mat & Dricka</a></li>
+                    </ul>
+                </div>
+                <div class="right-buttons">
+                    <a class="btn-boka" href="#">Boka</a>
+                    <div class="menu-container">
+                        <label for="menu-toggle" class="menu-button">☰</label>
+                        <input type="checkbox" id="menu-toggle">
+                        <nav class="menu">
+                            <label for="menu-toggle" class="menu-button">✖</label>
+                            <a href="#">Event</a>
+                            <a href="#">Om oss</a>
+                            <a href="#">Hallar</a>
+                            <a href="#">Spel</a>
+                            <a href="#">Mat & Dricka</a>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer class="footer">
+        <div class="info">&#128205; Pixelvägen 8, 123 45 Spelstaden | &#128222; 123-456 789 | &#128231; <a href="mailto:info@robbansarkad.se">info@robbansarkad.se</a></div>
+        <div>Följ oss på <a href="#">Instagram</a>, <a href="#">Facebook</a> & <a href="#">Twitter</a></div>
+    </footer>
+</body>
+</html>
