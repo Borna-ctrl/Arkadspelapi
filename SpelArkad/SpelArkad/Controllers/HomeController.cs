@@ -14,7 +14,6 @@ public class HomeController : Controller
         _httpClient = new HttpClient();
     }
 
-    // Action för att visa vyn "Index" och hämta spel från API:et
     public async Task<IActionResult> Index()
     {
         List<Spel> spelLista = new List<Spel>();
@@ -37,7 +36,6 @@ public class HomeController : Controller
         return View(spelLista);
     }
 
-    // Action för att visa spelet för användare utan redigeringsalternativ
     public async Task<IActionResult> UserIndex()
     {
         List<Spel> spelLista = new List<Spel>();
@@ -57,7 +55,7 @@ public class HomeController : Controller
             _logger.LogError($"Fel vid hämtning av API-data: {ex.Message}");
         }
 
-        return View(spelLista); // Skicka data till den nya vyn
+        return View(spelLista); 
     }
 
     public IActionResult SkapaSpel()

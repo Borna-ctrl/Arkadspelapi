@@ -17,37 +17,32 @@ public class SpelController : Controller
         return View(spelLista);
     }
 
-    // Visa formuläret för att skapa ett nytt spel
     public IActionResult SkapaSpel()
     {
         return View();
     }
 
-    // Skapa ett nytt spel
     [HttpPost]
     public async Task<IActionResult> SkapaSpel(Spel spel)
     {
         if (ModelState.IsValid)
         {
             await _spelService.CreateSpelAsync(spel);
-            return RedirectToAction("Index", "Home"); // Gå tillbaka till listan
+            return RedirectToAction("Index", "Home");
         }
         return View(spel);
     }
 
-    // Radera ett spel baserat på ID
     [HttpPost]
     public async Task<IActionResult> RaderaSpel(int id)
     {
         try
         {
-            // Anropa SpelService för att radera spelet från databasen
             await _spelService.RaderaSpelAsync(id);
-            return RedirectToAction("Index", "Home"); // Gå tillbaka till spelsidan efter radering
+            return RedirectToAction("Index", "Home");
         }
         catch (Exception ex)
         {
-            // Hantera fel vid radering (logga eller visa meddelande)
             ViewBag.ErrorMessage = $"Fel vid radering av spel: {ex.Message}";
             return RedirectToAction("Index");
         }

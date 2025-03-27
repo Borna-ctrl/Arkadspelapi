@@ -1,6 +1,4 @@
-﻿
-/* Skapa nytt spel knapp */
-.btn-custom {
+﻿.btn-custom {
     background-color: #28a745;
     color: white;
     font-size: 16px;
@@ -16,7 +14,6 @@
         background-color: #218838;
     }
 
-/* Radera spel knapp (inne i formuläret) */
 form button[type="submit"] {
     background-color: #dc3545;
     color: white;
@@ -34,7 +31,6 @@ form button[type="submit"] {
         background-color: #c82333;
     }
 
-/* Trailer knapp (på varje spelkort) */
 .game-card button {
     background-color: #007bff;
     color: white;

@@ -4,7 +4,6 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Lägg till tjänster för MVC (controllers + views)
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddHttpClient<SpelService>(client =>
@@ -19,7 +18,6 @@ builder.Services.AddHttpClient<SpelService>(client =>
 });
 
 
-// Lägg till SpelService som en beroende-tjänst
 builder.Services.AddScoped<SpelService>();
 
 builder.Services.AddCors(options =>
@@ -36,27 +34,21 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 app.UseCors("AllowAll");
 
-// Ignorera SSL-fel endast i utvecklingsmiljö
 AppContext.SetSwitch("System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport", true);
 
-// Om applikationen inte är i utvecklingsläge, visa felhantering
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
 
-// Aktivera HTTPS och routing
 app.UseHttpsRedirection();
 app.UseRouting();
 
-// **Lägg till stöd för statiska filer (CSS, JS, bilder)**
 app.UseStaticFiles();
 
-// Använd CORS om det behövs
 app.UseCors("AllowAllOrigins");
 
-// Lägg till standard MVC-konfiguration
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

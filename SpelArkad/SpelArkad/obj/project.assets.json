@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+      "projectUniqueName": "C:\\Users\\Borna\\Documents\\GitHub\\Arkadspelapi\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
       "projectName": "SpelArkad",
-      "projectPath": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
+      "projectPath": "C:\\Users\\Borna\\Documents\\GitHub\\Arkadspelapi\\SpelArkad\\SpelArkad\\SpelArkad.csproj",
       "packagesPath": "C:\\Users\\Borna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Borna\\Desktop\\SpelProjekt\\SpelArkad\\SpelArkad\\obj\\",
+      "outputPath": "C:\\Users\\Borna\\Documents\\GitHub\\Arkadspelapi\\SpelArkad\\SpelArkad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -580,9 +580,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+        "auditMode": "all"
+      }
     },
     "frameworks": {
       "net9.0": {
@@ -607,7 +606,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.201, 9.0.201]"
+            "version": "[9.0.102, 9.0.102]"
           }
         ],
         "frameworkReferences": {
@@ -618,7 +617,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

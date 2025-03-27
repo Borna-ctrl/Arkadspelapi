@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Borna\\Desktop\\Game\\",
+  "WorkspaceRootPath": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\models\\spel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\models\\spel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\models\\spel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\migrations\\20250324095648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\migrations\\20250324095648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\game\\game\\game.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\migrations\\20250324095648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\migrations\\20250324095648_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\controllers\\spelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|c:\\users\\borna\\desktop\\arkadspelapi-main\\game\\game\\game.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{23D58EAA-E12E-4B9F-97B0-E6C81AD6CD77}|Game\\Game.csproj|solutionrelative:game\\game.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -58,8 +62,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1053282299:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:185227609:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -69,16 +81,24 @@
               "Name": "ST:1178657504:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Game.csproj",
+              "RelativeDocumentMoniker": "Game\\Game.csproj",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Game.csproj",
+              "RelativeToolTip": "Game\\Game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T13:21:17.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Game\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\WeatherForecast.cs",
               "RelativeToolTip": "Game\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,24 +107,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20250324095648_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Migrations\\20250324095648_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Migrations\\20250324095648_InitialCreate.cs",
               "RelativeDocumentMoniker": "Game\\Migrations\\20250324095648_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Migrations\\20250324095648_InitialCreate.cs*",
-              "RelativeToolTip": "Game\\Migrations\\20250324095648_InitialCreate.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Migrations\\20250324095648_InitialCreate.cs",
+              "RelativeToolTip": "Game\\Migrations\\20250324095648_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:24:28.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Game\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Game\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Game\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Game\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,38 +146,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SpelController.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Controllers\\SpelController.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Controllers\\SpelController.cs",
               "RelativeDocumentMoniker": "Game\\Controllers\\SpelController.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Controllers\\SpelController.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Controllers\\SpelController.cs",
               "RelativeToolTip": "Game\\Controllers\\SpelController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:23:27.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Game\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Properties\\launchSettings.json",
               "RelativeToolTip": "Game\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T11:23:24.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T11:23:24.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Data\\AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Data\\AppDbContextFactory.cs",
               "RelativeDocumentMoniker": "Game\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Data\\AppDbContextFactory.cs*",
-              "RelativeToolTip": "Game\\Data\\AppDbContextFactory.cs*",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Game\\Data\\AppDbContextFactory.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T13:54:24.41Z",
@@ -165,24 +184,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Game\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Migrations\\AppDbContextModelSnapshot.cs*",
-              "RelativeToolTip": "Game\\Migrations\\AppDbContextModelSnapshot.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Game\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T13:54:49.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Game.http",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Game.http",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Game.http",
               "RelativeDocumentMoniker": "Game\\Game.http",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Game.http",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Game.http",
               "RelativeToolTip": "Game\\Game.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -190,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Program.cs",
               "RelativeDocumentMoniker": "Game\\Program.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Program.cs",
               "RelativeToolTip": "Game\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,28 +222,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Spel.cs",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Models\\Spel.cs",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Models\\Spel.cs",
               "RelativeDocumentMoniker": "Game\\Models\\Spel.cs",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\Models\\Spel.cs",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\Models\\Spel.cs",
               "RelativeToolTip": "Game\\Models\\Spel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T11:46:55.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Game\\Game\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\appsettings.json",
               "RelativeDocumentMoniker": "Game\\appsettings.json",
-              "ToolTip": "C:\\Users\\Borna\\Desktop\\Game\\Game\\appsettings.json",
+              "ToolTip": "C:\\Users\\Borna\\Desktop\\Arkadspelapi-main\\Game\\Game\\appsettings.json",
               "RelativeToolTip": "Game\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T11:43:44.021Z"
+              "WhenOpened": "2025-03-25T11:43:44.021Z",
+              "EditorCaption": ""
             }
           ]
         }

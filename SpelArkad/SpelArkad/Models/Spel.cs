@@ -1,5 +1,4 @@
-﻿// Models/Spel.cs
-
+﻿
 namespace SpelArkad.Models
 {
 

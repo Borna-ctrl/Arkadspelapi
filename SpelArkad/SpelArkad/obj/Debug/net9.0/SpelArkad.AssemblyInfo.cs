@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpelArkad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85fcab569bd32891280f361dbf8a46efc0d21100")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpelArkad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpelArkad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
